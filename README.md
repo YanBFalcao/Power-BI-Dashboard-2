@@ -1,4 +1,4 @@
-# Power BI - Dashboard Vendas X Rankin Operadores X Estatísticas de Vendedores
+# Power BI - Dashboard Vendas X Rankin Operadores X Estatísticas de Vendedores (Concluído)
 
 Bem vindo ao meu repositório! Este, é um repositório em que você poderá encontrar um Dashboard em que realizei em meus estudos práticos, elaborando um Dashboard iterativo com qualidade visual, com um layout construído do zero e com dados de uma base de exemplo. 
 
